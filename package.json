@@ -1,0 +1,27 @@
+{
+  "name": "ultimate-flask-front-end",
+  "version": "1.0.0",
+  "description": "Base on https://realpython.com/blog/python/the-ultimate-flask-front-end/",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kblumke/flask_react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kblumke/flask_react/issues"
+  },
+  "homepage": "https://github.com/kblumke/flask_react#readme",
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-browser": "^2.1.4",
+    "gulp-size": "^2.1.0",
+    "reactify": "^1.1.1"
+  }
+}

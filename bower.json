@@ -1,0 +1,22 @@
+{
+  "name": "ultimate-flask-front-end",
+  "homepage": "https://github.com/kblumke/flask_react",
+  "authors": [
+    "Michael Herman michael@realpython.com",
+    "Karolina Blumke k.blumke@clearcode.cc"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "react": "^15.1.0"
+  }
+}
